@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 local change in file3
 another local change
-=======
 change from clone
->>>>>>> dffd4ea954245faed31d0a891687d45eeb6b0cd7
 another local change
