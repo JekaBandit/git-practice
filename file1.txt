@@ -1,2 +1,1 @@
-file1 content
-line2
+completely new content for file1
